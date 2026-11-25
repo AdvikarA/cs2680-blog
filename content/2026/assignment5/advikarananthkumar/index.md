@@ -102,4 +102,4 @@ A lot of my early experimentation was motivated by intuitions about what would m
 
 ## AI use
 
-As the [course policy](https://cs2680.com/policy.html#ai-policy) requires: I used Claude Code throughout these assignments to write harness code, run and log experiments, and analyze results. For this post, Claude Code produced an outline of the structure and pulled the numbers from my experiment logs, I wrote the text myself, and Claude Code then fixed spelling and spacing and formatted the post for this site.
+As the [course policy](https://cs2680.com/policy.html#ai-policy) requires: I used Claude Code throughout these assignments to write harness code, run and log experiments, and analyze results.
